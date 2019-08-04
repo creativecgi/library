@@ -1,0 +1,15 @@
+current directory: /Users/pzee/sandbox/library/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+/usr/local/opt/ruby/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20190803-98771-1ev0mo.rb extconf.rb
+creating Makefile
+
+current directory: /Users/pzee/sandbox/library/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/pzee/sandbox/library/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/pzee/sandbox/library/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190803-98771-1rphvxi/bootsnap

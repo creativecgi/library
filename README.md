@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+* Docker container
+docker-compose run web /bin/bash
+
+
+docker-compose run web rake db:create
+docker-compose run web rake db:migrate
